@@ -26,7 +26,9 @@ After completing this lab, write a few sentences about:
 - How do you plan to expand this portfolio?
 
 [Write your reflection here]
-
+1. learning how to write all the syntax and figuring out how to turn in the assignment
+2. It is very forgiving I realized I forgot to close lots of tags
+3 I want to make the text different colors and fonts plus change the background color
 ---
 
 *This portfolio will grow throughout the semester as you add React components and full-stack projects!*
